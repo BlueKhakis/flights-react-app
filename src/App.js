@@ -89,7 +89,7 @@ function App() {
       </div> */}
 
       
-      Type in any two aiport codes (three letters) here:
+      Type in any two airport codes (three letters) here:
       <SearchBar setSearchQuery={setSearchQuery} setSearchQueryTwo={setSearchQueryTwo}/> <a href={'http://www.airportcodes.org/'}>List of Airport Codes</a>
       {/* To:  <SearchBar setSearchQueryTwo={setSearchQueryTwo}/> */}
       
